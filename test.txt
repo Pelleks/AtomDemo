@@ -1,1 +1,2 @@
 Das ist ein Testdokument
+Es wird benutzt um die git Integration von Atom Editor zu demonstrieren
